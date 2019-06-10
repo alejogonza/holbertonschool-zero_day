@@ -1,1 +1,1 @@
-*GITHUB project*
+*GIT project*
